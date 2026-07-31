@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Net Module Spring Release Mechanism
 
 드론 날개를 잠금 상태에서 스프링 힘으로 전개하고, 연동 래치를 해제하는 `net_module` 메커니즘의 Fusion 360 설계 파일과 MATLAB/Simulink 동역학 검증 자료를 정리한 프로젝트다.
@@ -119,3 +120,6 @@ docs/figures/                  결과 그래프
 5. 최소 100회 반복 전개 시험 후 PLA 마모와 균열 여부
 
 특히 프로펠러가 회전 중인 상태의 전개는 현재 모델 범위 밖이다. 비행 중 전개를 계획한다면 공력 하중, 모터 자이로 효과, 충격 하중을 별도로 검토해야 한다.
+=======
+# net-module-spring-release
+>>>>>>> 4ec0f1f86857df83d7678cfb59a179a8000f56a4
