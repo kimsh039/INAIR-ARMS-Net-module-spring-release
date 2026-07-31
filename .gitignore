@@ -1,0 +1,15 @@
+# MATLAB/Simulink generated files
+slprj/
+*.slxc
+*.autosave
+*.asv
+
+# Fusion/OS temporary files
+*.bak
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Local editor settings
+.vscode/
+.idea/
